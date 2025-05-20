@@ -25,19 +25,19 @@ The app was developed to meet the requirements of the assignment, which includes
 The primary objective of this application is to facilitate users’ acquisition and assessment of knowledge pertaining to ancient civilisations and human history. It offers a total score to display the knowledge of the user pertaining to human history.
 
 ### Key Features
-- Feature 1: The Histofy App offers three different civilisations to be assessed on, based on the user's input:
+- **Feature 1**: The Histofy App offers three different civilisations to be assessed on, based on the user's input:
 Input: Users specify a specific civilisation to be tested on (e.g., Ancient Egypt, Rome, Greece).
 Output: The app generates a list of five questions per civilisation that the user will answer and receive feedback on (e.g., Correct, Oops... Not Quite Right)
 Dynamic Suggestion: Motivational messages adjust to your progress, encouraging you to achieve your learning goals.
 User-Friendly Interface: Simple ‘true’, ‘false’ and ‘next’ buttons make the experience seamless and intuitive.
 
-- Feature 2: The Histofy app provides a personalized learning experience by tailoring quiz content based on the selected civilisation:
+- **Feature 2**: The Histofy app provides a personalized learning experience by tailoring quiz content based on the selected civilisation:
 Contextual Quiz Content: The app tailors its quiz content to the selected civilisation, such as questions about Roman emperors for the Rome quiz and Egyptian pharaohs for the Egypt quiz.
 Varied Question Delivery: Each time a user selects a civilisation, the app presents a selection of questions, offering a diverse quiz experience.
 Relevant Quiz Focus: The app ensures that quiz questions are relevant and specific to the chosen civilisation.
 User Engagement: Engaging, civilisation-focused quizzes enhance the learning experience.
 
-- Feature 3: The Histofy app is designed to make historical learning simple and intuitive through seamless quiz interaction:
+- **Feature 3**: The Histofy app is designed to make historical learning simple and intuitive through seamless quiz interaction:
 Civilisation Selection: Users can select from predefined civilisations, including Ancient Rome, Greece, and Egypt.
 Instant Quiz Start: Upon selection, the app instantly presents a civilisation-specific quiz, minimizing delay.
 Interactive Quizzing: Users engage with true/false questions and receive immediate feedback, fostering an engaging learning process.
@@ -76,6 +76,8 @@ The opening screen of the app showing the buttons to access the app.
  
 The next page of the app where the user can use the app functionality.
 
+---
+
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: 
 
@@ -97,9 +99,11 @@ From these challenges, I learned important lessons in debugging and pushing the 
 ### Future Enhancements
 While the current version of the app provides core learning functionality, there are several features that could be added in the future, such as:
 
-Custom Study Plans: Allow users to create, save, and manage personalized study plans for specific historical topics or periods.
-Detailed Historical Information: Link quiz questions to more in-depth historical information, including timelines, biographies, and event descriptions.
-Historical Era/Topic Filtering: Add options for ancient civilisations, medieval history, world wars, and other historical categories to filter quizzes. These improvements would enhance the app’s educational value and make it even more comprehensive for users.
+**Custom Study Plans**: Allow users to create, save, and manage personalized study plans for specific historical topics or periods.
+
+**Detailed Historical Information**: Link quiz questions to more in-depth historical information, including timelines, biographies, and event descriptions.
+
+**Historical Era/Topic Filtering**: Add options for ancient civilisations, medieval history, world wars, and other historical categories to filter quizzes. These improvements would enhance the app’s educational value and make it even more comprehensive for users.
 
 ---
 
