@@ -1,14 +1,14 @@
 1. Basic Information
 --------------------
 ```markdown
-# [Histofy]
+[Histofy]
 - **Developer**: [Sami EL Naamani]
 - **Student Number**: [ST10470683]
 - **Group**: [1]
 - **Course**: [Higher Certificate in Mobile Application and Web Development]
 - **Subject**: [IMAD5112]
 
-## Links
+Links
 - **GitHub Repository**: [https://github.com/VCSTDN2024/imad5112-assignment-2-SamiST10470683.git]
 - **YouTube Video**: [
 ```
@@ -51,10 +51,10 @@ The app was developed to meet the requirements of the assignment, which includes
 3. App Purpose and Features
 ---------------------------
 ```markdown
-### Purpose:
+Purpose:
 The primary objective of this application is to facilitate users’ acquisition and assessment of knowledge pertaining to ancient civilisations and human history. It offers a total score to display the knowledge of the user pertaining to human history.
 
-### Key Features:
+Key Features:
 - Feature 1: The Histofy App offers three different civilisations to be assessed on, based on the user's input:
 Input: Users specify a specific civilisation to be tested on (e.g., Ancient Egypt, Rome, Greece).
 Output: The app generates a list of five questions per civilisation that the user will answer and receive feedback on (e.g., Correct, Oops... Not Quite Right)
@@ -92,7 +92,7 @@ These features are designed to provide a user-friendly and engaging platform for
 4. Design Considerations
 ------------------------
 ```markdown
-## Design Considerations
+Design Considerations
 
 The **Histofy App** was meticulously crafted based on these key considerations:
 
@@ -116,7 +116,7 @@ The **Histofy App** was meticulously crafted based on these key considerations:
 
 5. GitHub and GitHub Actions Utilization
 ----------------------------------------
-```markdown
+
 GitHub and GitHub Actions:
 
 This project was managed using GitHub for version control. Regularly committed and pushed code changes allowed for collaborative coding, ensuring project integrity.
