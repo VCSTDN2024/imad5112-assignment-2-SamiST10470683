@@ -1,7 +1,7 @@
-1. Basic Information
---------------------
+---
+### Basic Information
 
-[Histofy]
+Histofy
 - **Developer**: [Sami EL Naamani]
 - **Student Number**: [ST10470683]
 - **Group**: [1]
@@ -14,18 +14,7 @@ Links
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-2. Project Overview
--------------------
+### Project Overview
 
 The Histofy App is a mobile application developed as part of an assignment in the IMAD5112 subject. This application was created using **Kotlin** and **Android Studio**. The primary objective of the application is to facilitate the administration of quizzes pertaining to various civilisations across different historical periods. This enables users to enhance their knowledge of human history, receive a numerical score indicating their level of proficiency.
 
@@ -33,26 +22,10 @@ The app was developed to meet the requirements of the assignment, which includes
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-3. App Purpose and Features
----------------------------
-
-Purpose:
+### App Purpose
 The primary objective of this application is to facilitate users’ acquisition and assessment of knowledge pertaining to ancient civilisations and human history. It offers a total score to display the knowledge of the user pertaining to human history.
 
-Key Features:
+### Key Features
 - Feature 1: The Histofy App offers three different civilisations to be assessed on, based on the user's input:
 Input: Users specify a specific civilisation to be tested on (e.g., Ancient Egypt, Rome, Greece).
 Output: The app generates a list of five questions per civilisation that the user will answer and receive feedback on (e.g., Correct, Oops... Not Quite Right)
@@ -72,21 +45,9 @@ Interactive Quizzing: Users engage with true/false questions and receive immedia
 
 These features are designed to provide a user-friendly and engaging platform for exploring historical knowledge related to different civilisations. The Histofy app simplifies historical learning by offering civilisation-specific quizzes, promoting focused study, and making it straightforward for users to test their understanding of significant historical facts.
 
-
 ---
 
-
-
-
-
-
-
-
-
-
-4. Design Considerations
-------------------------
-Design Considerations
+### Design Considerations
 
 The **Histofy App** was meticulously crafted based on these key considerations:
 
@@ -100,17 +61,7 @@ The **Histofy App** was meticulously crafted based on these key considerations:
 
 ---
 
-
-
-
-
-
-
-
-5. GitHub and GitHub Actions Utilization
-----------------------------------------
-
-GitHub and GitHub Actions:
+### GitHub and GitHub Actions:
 
 This project was managed using GitHub for version control. Regularly committed and pushed code changes allowed for collaborative coding, ensuring project integrity.
 
@@ -119,20 +70,6 @@ GitHub Actions was used to automate the build and deployment process. This inclu
 The workflow automatically builds and tests the project every time changes are pushed, simplifying the process of delivering the final APK/AAB files for submission.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-6. Screenshots and App Demo
----------------------------
 
 ### App Screenshots:
  
@@ -143,24 +80,7 @@ The next page of the app where the user can use the app functionality.
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: 
 
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7. Challenges and Learnings
----------------------------
 
 ## Challenges and Learnings
 During the development of this project, I encountered several challenges, including:
@@ -173,20 +93,7 @@ During the development of this project, I encountered several challenges, includ
 
 From these challenges, I learned important lessons in debugging and pushing the code to the Github repository.
 
-
-
 ---
-
-
-
-
-
-
-
-
-
-8. Future Enhancements
-----------------------
 
 ## Future Enhancements
 While the current version of the app provides core learning functionality, there are several features that could be added in the future, such as:
@@ -195,22 +102,7 @@ Custom Study Plans: Allow users to create, save, and manage personalized study p
 Detailed Historical Information: Link quiz questions to more in-depth historical information, including timelines, biographies, and event descriptions.
 Historical Era/Topic Filtering: Add options for ancient civilisations, medieval history, world wars, and other historical categories to filter quizzes. These improvements would enhance the app’s educational value and make it even more comprehensive for users.
 
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-9. References
--------------
 
 ## References
 
@@ -226,26 +118,14 @@ Historical Era/Topic Filtering: Add options for ancient civilisations, medieval 
 
 ---
 
-
-
-10. List of Figures
--------------------
-
 ## List of Figures
 
 - **Figure 1**:  
 Screenshot of opening page of app.
  
-
-
-
-
-
-
 - **Figure 2**:  
 Screenshots of user input page.
    
-
 ---
 
 
