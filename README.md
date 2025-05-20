@@ -1,6 +1,6 @@
 1. Basic Information
 --------------------
-```markdown
+
 [Histofy]
 - **Developer**: [Sami EL Naamani]
 - **Student Number**: [ST10470683]
@@ -11,9 +11,8 @@
 Links
 - **GitHub Repository**: [https://github.com/VCSTDN2024/imad5112-assignment-2-SamiST10470683.git]
 - **YouTube Video**: [
-```
 
----
+
 
 
 
@@ -27,11 +26,10 @@ Links
 
 2. Project Overview
 -------------------
-```markdown
+
 The Histofy App is a mobile application developed as part of an assignment in the IMAD5112 subject. This application was created using **Kotlin** and **Android Studio**. The primary objective of the application is to facilitate the administration of quizzes pertaining to various civilisations across different historical periods. This enables users to enhance their knowledge of human history, receive a numerical score indicating their level of proficiency.
 
 The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilising GitHub for version control and CI/CD automation using GitHub Actions.
-```
 
 ---
 
@@ -50,7 +48,7 @@ The app was developed to meet the requirements of the assignment, which includes
 
 3. App Purpose and Features
 ---------------------------
-```markdown
+
 Purpose:
 The primary objective of this application is to facilitate users’ acquisition and assessment of knowledge pertaining to ancient civilisations and human history. It offers a total score to display the knowledge of the user pertaining to human history.
 
@@ -73,9 +71,6 @@ Instant Quiz Start: Upon selection, the app instantly presents a civilisation-sp
 Interactive Quizzing: Users engage with true/false questions and receive immediate feedback, fostering an engaging learning process.
 
 These features are designed to provide a user-friendly and engaging platform for exploring historical knowledge related to different civilisations. The Histofy app simplifies historical learning by offering civilisation-specific quizzes, promoting focused study, and making it straightforward for users to test their understanding of significant historical facts.
-```
-
----
 
 
 
@@ -91,7 +86,6 @@ These features are designed to provide a user-friendly and engaging platform for
 
 4. Design Considerations
 ------------------------
-```markdown
 Design Considerations
 
 The **Histofy App** was meticulously crafted based on these key considerations:
@@ -103,7 +97,6 @@ The **Histofy App** was meticulously crafted based on these key considerations:
 3. **Simplicity**: The design adopts a minimalist approach, prioritising core features without overwhelming the user with excessive complexity.
 
 4. **Performance**: Code optimization was a top priority to ensure fast response times and minimal battery consumption.
-```
 
 ---
 
@@ -124,7 +117,6 @@ This project was managed using GitHub for version control. Regularly committed a
 GitHub Actions was used to automate the build and deployment process. This includes running automated tests to verify app functionality, compiling the app into APK and AAB files for distribution, and uploading these build artefacts to GitHub for easy access.
 
 The workflow automatically builds and tests the project every time changes are pushed, simplifying the process of delivering the final APK/AAB files for submission.
-```
 
 ---
 
@@ -141,7 +133,7 @@ The workflow automatically builds and tests the project every time changes are p
 
 6. Screenshots and App Demo
 ---------------------------
-```markdown
+
 ### App Screenshots:
  
 The opening screen of the app showing the buttons to access the app.
@@ -150,7 +142,7 @@ The next page of the app where the user can use the app functionality.
 
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: 
-```
+
 
 ---
 
@@ -169,7 +161,7 @@ A video showcasing the app's functionality can be viewed here:
 
 7. Challenges and Learnings
 ---------------------------
-```markdown
+
 ## Challenges and Learnings
 During the development of this project, I encountered several challenges, including:
 
@@ -180,7 +172,7 @@ During the development of this project, I encountered several challenges, includ
    - **Solution**: Had to declare the activities: (android:name="").
 
 From these challenges, I learned important lessons in debugging and pushing the code to the Github repository.
-```
+
 
 
 ---
@@ -195,14 +187,14 @@ From these challenges, I learned important lessons in debugging and pushing the 
 
 8. Future Enhancements
 ----------------------
-```markdown
+
 ## Future Enhancements
 While the current version of the app provides core learning functionality, there are several features that could be added in the future, such as:
 
 Custom Study Plans: Allow users to create, save, and manage personalized study plans for specific historical topics or periods.
 Detailed Historical Information: Link quiz questions to more in-depth historical information, including timelines, biographies, and event descriptions.
 Historical Era/Topic Filtering: Add options for ancient civilisations, medieval history, world wars, and other historical categories to filter quizzes. These improvements would enhance the app’s educational value and make it even more comprehensive for users.
-```
+
 
 ---
 
@@ -219,7 +211,7 @@ Historical Era/Topic Filtering: Add options for ancient civilisations, medieval 
 
 9. References
 -------------
-```markdown
+
 ## References
 
 1.	W3Schools, n.d. JavaScript Tutorial. [online] Available at: https://www.w3schools.com [Accessed 20 April 2025].
@@ -231,12 +223,12 @@ Historical Era/Topic Filtering: Add options for ancient civilisations, medieval 
 7. [Muzzi Design/Author Unknown], n.d. Make Animated Gradient Background Like Instagram Using Kotlin | Animated Gradient Background Android. [video online] Available at: http://www.youtube.com/watch?v=xkqLuMK8vjE [Accessed 27 April 2025].
 8. [Mr. Jitendra/Author Unknown], n.d. How to Change Android Studio | Theme | Font Family | Font Size. [video online] Available at: https://youtu.be/hALSwU7g36M [Accessed 27 April 2025].
 9. [Google Fonts/Author Unknown], n.d. Poppins. [online font] Available at: https://fonts.google.com/specimen/Poppins [Accessed 20 April 2025].
-```
+
 ---
 
 10. List of Figures
 -------------------
-```markdown
+
 ## List of Figures
 
 - **Figure 1**:  
@@ -253,10 +245,6 @@ Screenshots of user input page.
    
 
 
-
-```
-
----
 
 
 
