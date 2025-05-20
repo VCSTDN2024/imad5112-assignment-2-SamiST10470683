@@ -12,7 +12,7 @@ Links
 - **GitHub Repository**: [https://github.com/VCSTDN2024/imad5112-assignment-2-SamiST10470683.git]
 - **YouTube Video**: [
 
-
+---
 
 
 
@@ -73,7 +73,7 @@ Interactive Quizzing: Users engage with true/false questions and receive immedia
 These features are designed to provide a user-friendly and engaging platform for exploring historical knowledge related to different civilisations. The Histofy app simplifies historical learning by offering civilisation-specific quizzes, promoting focused study, and making it straightforward for users to test their understanding of significant historical facts.
 
 
-
+---
 
 
 
@@ -226,6 +226,8 @@ Historical Era/Topic Filtering: Add options for ancient civilisations, medieval 
 
 ---
 
+
+
 10. List of Figures
 -------------------
 
@@ -244,7 +246,7 @@ Screenshot of opening page of app.
 Screenshots of user input page.
    
 
-
+---
 
 
 
