@@ -1,4 +1,3 @@
----
 ### Basic Information
 
 Histofy
@@ -95,7 +94,7 @@ From these challenges, I learned important lessons in debugging and pushing the 
 
 ---
 
-## Future Enhancements
+### Future Enhancements
 While the current version of the app provides core learning functionality, there are several features that could be added in the future, such as:
 
 Custom Study Plans: Allow users to create, save, and manage personalized study plans for specific historical topics or periods.
@@ -104,7 +103,7 @@ Historical Era/Topic Filtering: Add options for ancient civilisations, medieval 
 
 ---
 
-## References
+### References
 
 1.	W3Schools, n.d. JavaScript Tutorial. [online] Available at: https://www.w3schools.com [Accessed 20 April 2025].
 2.	[Sonar Systems/Author Unknown], n.d. Map: mapOf Function – Kotlin Programming. [video online] Available at: https://youtu.be/18h8ZleInKA?si=IHj0X6O-0MEADGZg [Accessed 30 April 2025].
@@ -118,7 +117,7 @@ Historical Era/Topic Filtering: Add options for ancient civilisations, medieval 
 
 ---
 
-## List of Figures
+### List of Figures
 
 - **Figure 1**:  
 Screenshot of opening page of app.
