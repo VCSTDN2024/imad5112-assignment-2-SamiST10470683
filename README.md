@@ -1,6 +1,6 @@
 ### Basic Information
 
-Histofy
+**Histofy**
 - **Developer**: [Sami EL Naamani]
 - **Student Number**: [ST10470683]
 - **Group**: [1]
@@ -83,7 +83,7 @@ A video showcasing the app's functionality can be viewed here:
 
 ---
 
-## Challenges and Learnings
+### Challenges and Learnings
 During the development of this project, I encountered several challenges, including:
 
 1. **Challenge 1**: Seriously struggled to push the code to the classroom repository.
