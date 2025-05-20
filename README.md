@@ -9,7 +9,7 @@
 
 Links
 - **GitHub Repository**: [https://github.com/VCSTDN2024/imad5112-assignment-2-SamiST10470683.git]
-- **YouTube Video**: [
+- **YouTube Video**: [https://youtu.be/2RL44sJZtsE]
 
 ---
 
@@ -60,7 +60,7 @@ The **Histofy App** was meticulously crafted based on these key considerations:
 
 ---
 
-### GitHub and GitHub Actions:
+### GitHub and GitHub Actions
 
 This project was managed using GitHub for version control. Regularly committed and pushed code changes allowed for collaborative coding, ensuring project integrity.
 
@@ -70,7 +70,7 @@ The workflow automatically builds and tests the project every time changes are p
 
 ---
 
-### App Screenshots:
+### App Screenshots
  
 The opening screen of the app showing the buttons to access the app.
  
@@ -78,8 +78,8 @@ The next page of the app where the user can use the app functionality.
 
 ---
 
-### Video Demo:
-A video showcasing the app's functionality can be viewed here: 
+### Video Demo
+A video showcasing the app's functionality can be viewed here: [https://youtu.be/2RL44sJZtsE]
 
 ---
 
