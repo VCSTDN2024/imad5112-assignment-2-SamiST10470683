@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gradient_list"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <!-- Page heading -->
+    <TextView
+        android:layout_width="285dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="100dp"
+        android:fontFamily="@font/poppins_semibold"
+        android:text="All Quizes"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="55sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Select message -->
+    <TextView
+        android:layout_width="170dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="200dp"
+        android:fontFamily="@font/poppins_light"
+        android:text="Select a quiz."
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Instruction message -->
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="85dp"
+        android:layout_marginTop="235dp"
+        android:fontFamily="@font/poppins_extralight"
+        android:text="Select a civilisation to be quized on."
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Button to start Eqypt Quiz-->
+    <Button
+        android:id="@+id/EgyptQuizBtn"
+        android:layout_width="320dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="320dp"
+        android:backgroundTint="#25000000"
+        android:fontFamily="@font/poppins_light"
+        android:text="Ancient Egypt"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Button to start Greece Quiz -->
+    <Button
+        android:id="@+id/GreeceQuizBtn"
+        android:layout_width="320dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="430dp"
+        android:backgroundTint="#25000000"
+        android:fontFamily="@font/poppins_light"
+        android:text="Ancient Greece"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Button to start Rome Quiz -->
+    <Button
+        android:id="@+id/RomeQuizBtn"
+        android:layout_width="320dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="540dp"
+        android:backgroundTint="#25000000"
+        android:fontFamily="@font/poppins_light"
+        android:text="Ancient Rome"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Button to go back to start page-->
+    <Button
+        android:id="@+id/exitBtn"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="700dp"
+        android:backgroundTint="#25000000"
+        android:fontFamily="@font/poppins_light"
+        android:text="Back"
+        android:textColor="#F1FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
