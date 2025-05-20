@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gradient_list"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <!-- App name heading -->
+    <TextView
+        android:layout_width="235dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="250dp"
+        android:fontFamily="@font/poppins_semibold"
+        android:text="Histofy"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="60sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Welcome message -->
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="350dp"
+        android:fontFamily="@font/poppins_light"
+        android:text="Welcome to Histofy!"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Brief app description -->
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="85dp"
+        android:layout_marginTop="385dp"
+        android:fontFamily="@font/poppins_extralight"
+        android:text="Sharpen your knowledge of ancient civilisations with quick and fun flashcard quizes!"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Button to start app -->
+    <Button
+        android:id="@+id/startBtn"
+        android:layout_width="140dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="495dp"
+        android:fontFamily="@font/poppins_light"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        android:backgroundTint="#25000000"
+        android:text="Let's Start!"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Button to exit app -->
+    <Button
+        android:id="@+id/exitBtn"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="560dp"
+        android:backgroundTint="#25000000"
+        android:fontFamily="@font/poppins_light"
+        android:text="Exit"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
